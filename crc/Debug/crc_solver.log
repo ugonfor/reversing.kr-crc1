@@ -1,0 +1,2 @@
+﻿  crc_header.c
+LINK : fatal error LNK1168: C:\Users\ryuhy\Desktop\reversing.kr\CRC1\crc\Debug\crc_solver.exe을(를) 쓰기용으로 열 수 없습니다.
